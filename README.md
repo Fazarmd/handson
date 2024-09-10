@@ -7,3 +7,6 @@
 5. commit branch baru
 6. push branch baru ke remote
 7. merge branch baru itu ke main
+8. fitue 1
+9. fitur 2
+10. fitur 3
